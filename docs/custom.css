@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(180, 198, 255);
+    color: rgb(46, 42, 253);
+}
+
+.btn-custom {
+    background-color: #09f593;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom.active {
+    background-color: #0A2342;
+    border-color: #05121A; 
+}
